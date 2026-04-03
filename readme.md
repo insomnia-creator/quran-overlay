@@ -6,11 +6,15 @@ If someone has memory optimisations to contribute please do so, I couldn't bothe
 There are some issues regarding spacing with longer verses, I don't have time to fix them unless someone shows interest. This project was made for myself.
 
 Formats for cycles.txt(these verses will be cycled through)
-<chapter>:<verses>
+\<chapter\>:\<verses\>
 
 You can look for examples in the qrn-assets directory.
 
 I use the monotheist translation here because I agree with them and it's non-sectarian. Ultimately however the Qur'an is frank and true, you can interpret it however you want. You can even ignore the translations if you just want arabic. Your choice.
+
+### Installation
+
+Check releases tab, this is of course pre-release as I'm not entirely confident. 
 
 ### Usage:
 Open the app every time you want to show the settings window. From there you can make changes. Some settings might not work yet, please address them. 
