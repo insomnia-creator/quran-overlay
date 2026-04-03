@@ -1,0 +1,24 @@
+{
+  "originHash" : "ee0b95521d5131bb534944a78617adc1c038c81de87a212464f766568227d099",
+  "pins" : [
+    {
+      "identity" : "launchatlogin-modern",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/LaunchAtLogin-Modern",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a04ec1c363be3627734f6dad757d82f5d4fa8fcc"
+      }
+    },
+    {
+      "identity" : "liquidglasstext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DanielCrompton123/LiquidGlassText/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d5e8f4207a3f7b1b088ae1a14e8a73196d828352"
+      }
+    }
+  ],
+  "version" : 3
+}

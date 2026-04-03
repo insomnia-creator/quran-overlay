@@ -1,0 +1,45 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.25605,0.12101,0.23825,1.00000",
+      "display-p3:0.55109,0.57926,0.54420,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:1.00000,0.24740,0.02140,1.00000",
+              "display-p3:0.96783,0.56193,0.52954,1.00000"
+            ]
+          },
+          "image-name" : "اللّٰہ.svg",
+          "name" : "اللّٰہ",
+          "position" : {
+            "scale" : 14,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
